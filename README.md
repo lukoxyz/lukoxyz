@@ -2,6 +2,8 @@
      LUKO
 ========================================================== -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukoxyz&label=Profile%20views&color=0e75b4&style=flat" alt="lukoxyz" /> </p>
+
 <div align="center">
 
 # 𝙇 𝙐 𝙆 𝙊
