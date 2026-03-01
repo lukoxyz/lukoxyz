@@ -50,7 +50,7 @@
 
 ░▒▓ 𝐓𝐎𝐎𝐋𝐒 𝐎𝐅 𝐓𝐇𝐄 𝐓𝐑𝐀𝐃𝐄
 <div align="center"> <img src="https://skillicons.dev/icons?i=java,idea,git,github,maven,gradle,docker,mysql&perline=8" /> </div>
-Java • Paper/Spigot • Maven/Gradle • MySQL • Docker (learning) • Git
+               Java • Paper/Spigot • Maven/Gradle • MySQL • Docker (learning) • Git
 
 ░▒▓ 𝐖𝐇𝐀𝐓 𝐈 𝐁𝐔𝐈𝐋𝐃
 + custom gameplay systems (economy, drops, boosters)
