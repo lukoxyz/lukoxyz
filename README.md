@@ -64,6 +64,7 @@
 [ ] benchmark everything
 
 ░▒▓ 𝐂𝐎𝐃𝐄 𝐒𝐈𝐆𝐍𝐀𝐓𝐔𝐑𝐄
+     
      public final class Luko {
          private static final int CODING_SINCE = 2021;
      
