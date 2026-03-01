@@ -42,7 +42,7 @@
 
 🧱 Focus: Plugins para Paper/Spigot
 
-🧪 Interesses: packets, NMS, performance, sistemas de economia/itens
+🧪 Interesses: packets, NMS, performance & micro-optimizations.
 
 🕰️ Since: 2021
 
@@ -56,7 +56,6 @@ Java • Paper/Spigot • Maven/Gradle • MySQL • Docker (learning) • Git
 + custom gameplay systems (economy, drops, boosters)
 + server-side performance & profiling experiments
 + packet/NMS experiments for visuals and mechanics
-+ tooling to automate boring admin stuff
 
 ░▒▓ 𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐌𝐈𝐒𝐒𝐈𝐎𝐍
 [ ] master clean architecture for plugins
@@ -65,13 +64,13 @@ Java • Paper/Spigot • Maven/Gradle • MySQL • Docker (learning) • Git
 [ ] benchmark everything
 
 ░▒▓ 𝐂𝐎𝐃𝐄 𝐒𝐈𝐆𝐍𝐀𝐓𝐔𝐑𝐄
-public final class Luko {
-    private static final int CODING_SINCE = 2021;
-
-    private Luko() {}
-
-    public static void log() {
-        System.out.println("[LUKO] ship -> break -> learn -> refactor -> ship");
-        System.out.println("[LUKO] coding since: " + CODING_SINCE);
-    }
-}
+     public final class Luko {
+         private static final int CODING_SINCE = 2021;
+     
+         private Luko() {}
+     
+         public static void log() {
+             System.out.println("[LUKO] ship -> break -> learn -> refactor -> ship");
+             System.out.println("[LUKO] coding since: " + CODING_SINCE);
+         }
+     }
