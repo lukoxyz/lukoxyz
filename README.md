@@ -60,8 +60,11 @@
 ░▒▓ 𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐌𝐈𝐒𝐒𝐈𝐎𝐍
 
 [ ] master clean architecture for plugins
+
 [ ] learn better packet pipelines
+
 [ ] ship stable features without fear
+
 [ ] benchmark everything
 
 ░▒▓ 𝐂𝐎𝐃𝐄 𝐒𝐈𝐆𝐍𝐀𝐓𝐔𝐑𝐄
