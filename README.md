@@ -5,7 +5,7 @@
 <div align="center">
 
 # 𝙇 𝙐 𝙆 𝙊
-### `minecraft java dev` • `novato` • `coding since 2021`
+### `minecraft java dev` • `coding since 2021`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=LUKO&fontAlign=50&fontAlignY=40&desc=crafting%20plugins%20in%20the%20dark&descAlign=50&descAlignY=65&animation=twinkling&section=header" />
 
@@ -42,11 +42,11 @@
 
 🧱 Focus: Plugins para Paper/Spigot
 
-🧪 Interesses: packets, NMS, performance & micro-optimizations.
+🧪 Interests: packets, NMS, performance & micro-optimizations.
 
 🕰️ Since: 2021
 
-🧠 Mentalidade: “If it works — refactor it until it’s elegant.”
+🧠 Mentality: “If it works — refactor it until it’s elegant.”
 
 ░▒▓ 𝐓𝐎𝐎𝐋𝐒 𝐎𝐅 𝐓𝐇𝐄 𝐓𝐑𝐀𝐃𝐄
 <div align="center"> <img src="https://skillicons.dev/icons?i=java,idea,git,github,maven,gradle,docker,mysql&perline=8" /> </div>
