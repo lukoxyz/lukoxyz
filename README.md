@@ -28,10 +28,12 @@
 </div>
 
 <div align="center">
-┌─[ luko@overworld ]─[ ~/src/plugins ]
-└──╼ $ whoami
-Luko — novice Minecraft Java dev.
-Coding since 2021. Learning by reverse-engineering systems and rebuilding them clean.
+
+     ┌─[ luko@overworld ]─[ ~/src/plugins ]
+     └──╼ $ whoami
+     Luko — novice Minecraft Java dev.
+     Coding since 2021. Learning by reverse-engineering systems and rebuilding them clean.
+     
 </div>
 
 ░▒▓ 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
@@ -49,16 +51,19 @@ Coding since 2021. Learning by reverse-engineering systems and rebuilding them c
 ░▒▓ 𝐓𝐎𝐎𝐋𝐒 𝐎𝐅 𝐓𝐇𝐄 𝐓𝐑𝐀𝐃𝐄
 <div align="center"> <img src="https://skillicons.dev/icons?i=java,idea,git,github,maven,gradle,docker,mysql&perline=8" /> </div>
 Java • Paper/Spigot • Maven/Gradle • MySQL • Docker (learning) • Git
+
 ░▒▓ 𝐖𝐇𝐀𝐓 𝐈 𝐁𝐔𝐈𝐋𝐃
 + custom gameplay systems (economy, drops, boosters)
 + server-side performance & profiling experiments
 + packet/NMS experiments for visuals and mechanics
 + tooling to automate boring admin stuff
+
 ░▒▓ 𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐌𝐈𝐒𝐒𝐈𝐎𝐍
 [ ] master clean architecture for plugins
 [ ] learn better packet pipelines
 [ ] ship stable features without fear
 [ ] benchmark everything
+
 ░▒▓ 𝐂𝐎𝐃𝐄 𝐒𝐈𝐆𝐍𝐀𝐓𝐔𝐑𝐄
 public final class Luko {
     private static final int CODING_SINCE = 2021;
